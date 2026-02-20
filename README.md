@@ -25,9 +25,8 @@ Where:
 * **Required Toolboxes:** Antenna Toolbox (optional, if using built-in functions) or Signal Processing Toolbox.
 
 ## 📊 Sample Results
-*(Tip: Upload your simulation screenshots to an 'images' folder and link them below)*
-![3D Plot](images/your_simulation_result.png)
-*Example: $8 \times 8$ Planar Array Simulation with $\lambda/2$ spacing.*
+![3D Plot](10x10.png)
+*Example: $10 \times 10$ Planar Array Simulation with $\lambda/2$ spacing.*
 
 ## 🛠 How to Run
 1. Clone the repository:
