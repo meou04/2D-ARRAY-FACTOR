@@ -26,6 +26,7 @@ Where:
 
 ## 📊 Sample Results
 ![3D Plot](10x10.png)
+
 *Example: $10 \times 10$ Planar Array Simulation with $\lambda/2$ spacing.*
 
 ## 🛠 How to Run
