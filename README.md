@@ -6,7 +6,7 @@ This repository contains a **MATLAB-based simulation** tool designed to calculat
 ## 🚀 Key Features
 * **N x M Planar Array Configuration:** Fully customizable number of elements and inter-element spacing ($d_x, d_y$).
 * **Beamsteering Logic:** Calculation of progressive phase shifts ($\beta_x, \beta_y$) to steer the main lobe to any $(\theta_0, \phi_0)$ direction.
-* **Side Lobe Control:** Implementation of amplitude tapering (Uniform, Binomial, or Taylor) to optimize the Side Lobe Level (SLL).
+* **Side Lobe Control:** Implementation of amplitude tapering (Uniform, Binomial, or Triangular) to optimize the Side Lobe Level (SLL).
 * **Advanced Visualization:** * 3D Spherical Radiation Patterns.
     * 2D Polar and Rectangular plots for E-plane and H-plane analysis.
 
