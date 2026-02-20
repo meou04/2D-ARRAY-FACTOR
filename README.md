@@ -27,7 +27,7 @@ Where:
 ## 📊 Sample Results
 ![3D Plot](10x10.png)
 
-*Example: $10 \times 10$ Planar Array Simulation with $\lambda/2$ spacing.*
+*Example: 10 x 10 Planar Array Simulation with dipole λ/2.*
 
 ## 🛠 How to Run
 1. Clone the repository:
