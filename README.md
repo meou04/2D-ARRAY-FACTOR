@@ -30,6 +30,6 @@ Where:
 *Example: 10 x 10 Planar Array Simulation with dipole λ/2.*
 
 ## 🛠 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
+ 1. Download the file AF_2D.mlapp from this repository.
+ 2. Open MATLAB.
+ 3. Double-click on AF_2D.mlapp or type appdesigner in the Command Window and open the file.
